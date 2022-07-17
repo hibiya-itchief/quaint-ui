@@ -1,5 +1,5 @@
 # quaint-front
-[プロトタイプ（Figma）](https://www.figma.com/file/c8T4nZ9imeGXWrFD6rNyI0/Quaint-Design?node-id=2%3A3)
+[プロトタイプ（Figma）](https://www.figma.com/proto/c8T4nZ9imeGXWrFD6rNyI0/Quaint-Design?page-id=0%3A1&node-id=0%3A1&viewport=787%2C-736%2C0.69&scaling=scale-down&starting-point-node-id=2%3A3)
 
 # 1.虚空間（サイト内）
 
