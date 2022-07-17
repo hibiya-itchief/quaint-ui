@@ -1,7 +1,7 @@
 # quaint-front
 [プロトタイプ（Figma）](https://www.figma.com/file/c8T4nZ9imeGXWrFD6rNyI0/Quaint-Design?node-id=2%3A3)
 
-1.虚空間（サイト内）
+# 1.虚空間（サイト内）
 
 
 ## トップページ
@@ -99,7 +99,7 @@
 
 ---
 
-2.実空間（サイト外）
+# 2.実空間（サイト外）
 
 
 ## 各団体の入り口に案内板w/QR
